@@ -44,3 +44,5 @@ yarn-error.*
 # secrets
 serviceAccountKey.json
 debug_resolution.js
+firebase-debug.log
+
